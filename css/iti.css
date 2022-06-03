@@ -38,12 +38,12 @@ section{/*overflow:auto;*/ width:980px; margin:0 auto;}
 .holder-left{float:left; width:450px;}
 .holder-right{float:right; width:450px;}
 .holder-left{min-height:250px; width:500px;}
-.holder-left .item{background:url(../gfx/main_bg.png) 0 0 no-repeat;
+.holder-left .item{background:url(../gfx/bullets.svg) 0 0 no-repeat;
 		   position:absolute; padding:65px 15px 0 10px; text-align:center; font-size:14px; height:165px;}
-.holder-left .item.i1{left:255px; top:0px; width:205px; background-position:-255px 0px;}
-.holder-left .item.i2{left:0px; top:70px; width:170px;  background-position:0 -45px;}
-.holder-left .item.i3{left:60px;  top:280px; width:170px; background-position:-30px -270px; padding-top:60px;}
-.holder-left .item.i4{left:300px; top:270px; width:150px; background-position:-280px -310px; padding-top:50px;}
+.holder-left .item.i1{left:255px; top:0px; width:205px; background-position:-249px 0px; padding-top:70px;}
+.holder-left .item.i2{left:0px; top:70px; width:170px; height:148px;  background-position:0 -60px; padding-left:18px; padding-top:70px;}
+.holder-left .item.i3{left:60px;  top:300px; width:170px; background-position:-45px -278px; padding-top:60px;}
+.holder-left .item.i4{left:300px; top:270px; width:170px; background-position:-274px -335px; padding-top:63px; padding-left:6px;font-size:13px;}
 .holder-left .item .link{background:url(../gfx/arrows.svg) no-repeat 0 0; display:block; width:40px; height:40px; margin:15px auto;}
 .holder-left .item.i2 .link{background-position:-40px 0;}
 .holder-left .item.i3 .link{background-position:-80px 0; margin-top:5px;}
