@@ -17,12 +17,12 @@ h2 {font-size:18px; margin:20px 0;}
 h3 {font-size:16px; margin:20px 0;}
 p { font-family: 'Roboto Condensed', sans-serif;  line-height:26px; text-align: justify; margin:0 0 10px 0;}
 header{background:url(../gfx/bg_top.png) repeat-x; width:100%; height:160px; position:fixed; top:0; z-index:1000;}
-nav{width:980px; margin:0 auto; position:relative;}
-nav .logo{background:url(../gfx/logo.png) 50% 50% no-repeat; display:block; width:180px; height:160px; left:453px; text-indent:-1000px; overflow:hidden; top:0;}
+nav{width:1300px; margin:0 auto; position:relative;}
+nav .logo{background:url(../gfx/logo.png) 50% 50% no-repeat; display:block; width:180px; height:160px; left:570px; text-indent:-1000px; overflow:hidden; top:0;}
 nav .logo,
 ul.menu{position:absolute;}
-ul.menu{top:70px; left:0;}
-ul.menu.r{left:620px; width:400px; }
+ul.menu{top:59px; left:0;}
+ul.menu.r{left:755px; width:600px; }
 ul.menu li{float:left; margin:0 21px;}
 ul.menu li a{font-size:18px; cursor:pointer;}
 ul.menu li a.active,
@@ -68,6 +68,7 @@ dd{font-size:13px; margin:0 0 15px 10px;}
 
 .lower-alpha li{list-style:lower-alpha; margin:0 0 5px 25px; line-height: 26px;}
 .decimal li{list-style:decimal; margin:0 0 5px 25px; line-height: 26px;}
+.bullets li{list-style:circle; margin:0 0 5px 25px; line-height: 26px;}
 
 .blue{color:#007b9b;}
 .navy{color:#235175;}
