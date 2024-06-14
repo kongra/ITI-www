@@ -45,7 +45,8 @@ section{/*overflow:auto;*/ width:980px; margin:0 auto;}
 .holder-left .item.i3{left:60px;  top:300px; width:170px; background-position:-45px -278px; padding-top:60px;font-size:13px;}
 .holder-left .item.i4{left:300px; top:270px; width:170px; background-position:-274px -335px; padding-top:63px; padding-left:6px;font-size:13px;}
 .holder-left .item.i5{left:20px;  top:530px; width:170px; background-position:-30px -525px; padding-top:63px;font-size:13px;}
-.holder-left .item.i6{left:270px; top:520px; width:170px; background-position:-240px -550px; padding-top:110px; padding-left:6px;font-size:13px;}
+.holder-left .item.i6{left:250px; top:450px; width:170px; background-position:-240px -550px; padding-top:110px; padding-left:6px;font-size:13px;}
+.holder-left .item.i7{left:170px; top:680px; width:170px; background-position:-30px -760px; padding-top:110px; padding-left:6px;font-size:13px;}
 
 .holder-left .item    .link{background:url(../gfx/arrows.svg) no-repeat 0 0; display:block; width:40px; height:40px; margin:15px auto;}
 .holder-left .item.i2 .link{background-position:-40px 0;}
@@ -53,6 +54,7 @@ section{/*overflow:auto;*/ width:980px; margin:0 auto;}
 .holder-left .item.i4 .link{background-position:-120px 0; margin-top:5px;}
 .holder-left .item.i5 .link{background-position:-160px 0; margin-top:5px;}
 .holder-left .item.i6 .link{background-position:-200px 0; margin-top:5px;}
+.holder-left .item.i7 .link{background-position:-240px 0; margin-top:5px;}
 
 .pop, .close-pop{background:url(../gfx/pop_bg.png) repeat; display:none; position:absolute;}
 .pop{width:425px; left:0px; top:68px; padding:0 30px 10px;}

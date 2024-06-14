@@ -29,6 +29,7 @@ $(document).ready(
       if($(target).hasClass('i4')) $('.pop.c-4').css({'display':'block'});
       if($(target).hasClass('i5')) $('.pop.c-5').css({'display':'block'});
       if($(target).hasClass('i6')) $('.pop.c-6').css({'display':'block'});
+      if($(target).hasClass('i7')) $('.pop.c-7').css({'display':'block'});
     });
     $('.close-pop').click(function(){$('.pop, .close-pop').css({'display':'none'});});
   });
